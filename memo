@@ -1,0 +1,7 @@
+コンパイル
+$ javac Hello.java
+$ javac {関数名}.java
+
+実行時
+$ java Hello
+$ java {関数名}
